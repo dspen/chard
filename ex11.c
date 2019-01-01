@@ -3,7 +3,7 @@
 int main(int argc, char *argv[])
 {
   int numbers[4] = { 1 };
-  char name[4] =  { 1 };
+  char name[4] =  { 'a' };
   //char name[4] = {'a', 'a', 'a', 'a'};
 
   //first, print them out raw
